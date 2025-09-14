@@ -1,8 +1,0 @@
-2025-09-14 22:26:00,274 - [WARNING] - _internal.py:97 -  * Debugger is active!
-2025-09-14 22:26:00,274 - [INFO] - _internal.py:97 -  * Debugger PIN: 114-761-876
-2025-09-14 22:26:12,494 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:26:12] "POST /predictdata HTTP/1.1" 200 -
-2025-09-14 22:26:28,904 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:26:28] "POST /predictdata HTTP/1.1" 200 -
-2025-09-14 22:26:43,261 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:26:43] "POST /predictdata HTTP/1.1" 200 -
-2025-09-14 22:26:55,275 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:26:55] "POST /predictdata HTTP/1.1" 200 -
-2025-09-14 22:27:20,203 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:27:20] "POST /predictdata HTTP/1.1" 200 -
-2025-09-14 23:07:35,358 - [INFO] - _internal.py:97 -  * Detected change in '/home/user/projects_ds/ml_project_1/app.py', reloading

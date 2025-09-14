@@ -1,6 +1,0 @@
-2025-09-09 15:05:17,509 - [INFO] - data_ingestion.py:25 - Starting the data ingestion process...
-2025-09-09 15:05:17,521 - [INFO] - data_ingestion.py:36 - Splitting the data into train and test sets...
-2025-09-09 15:05:17,528 - [INFO] - data_ingestion.py:43 - Data ingestion completed successfully.
-2025-09-09 15:05:17,534 - [INFO] - data_transformation.py:95 - splitting data is done
-2025-09-09 15:05:17,535 - [INFO] - data_transformation.py:74 - transforming categorical features and numerical feature are done
-2025-09-09 15:05:17,555 - [INFO] - data_transformation.py:113 - saving pickle file is done
