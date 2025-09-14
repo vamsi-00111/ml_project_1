@@ -1,7 +1,9 @@
 numpy 
 pandas
 seaborn
-scikit-learn
+scikit-learn==1.5.1
+
 #-e .
 catboost
 xgboost
+flask

@@ -1,0 +1,9 @@
+2025-09-14 22:06:42,177 - [WARNING] - _internal.py:97 -  * Debugger is active!
+2025-09-14 22:06:42,177 - [INFO] - _internal.py:97 -  * Debugger PIN: 114-761-876
+2025-09-14 22:06:49,318 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:06:49] "GET /predictdata HTTP/1.1" 200 -
+2025-09-14 22:07:01,448 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:07:01] "GET /predictdata HTTP/1.1" 200 -
+2025-09-14 22:07:02,203 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:07:02] "GET /predictdata HTTP/1.1" 200 -
+2025-09-14 22:07:02,383 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:07:02] "GET /predictdata HTTP/1.1" 200 -
+2025-09-14 22:07:02,655 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:07:02] "GET /predictdata HTTP/1.1" 200 -
+2025-09-14 22:07:02,834 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:07:02] "GET /predictdata HTTP/1.1" 200 -
+2025-09-14 22:07:42,850 - [INFO] - _internal.py:97 - 127.0.0.1 - - [14/Sep/2025 22:07:42] "[33mPOST /predict HTTP/1.1[0m" 404 -
